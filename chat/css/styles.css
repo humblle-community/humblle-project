@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+/*.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+}*/
+
+/*.logo {
+    margin-left: 50px;
+    width: 80px;
+    height: 79px;
+}
+
+.profile {
+    text-align: center;
+    flex-grow: 1;
+    color: aliceblue;
+
+}
+
+.active {
+    text-align: left;
+    color: aliceblue;
+    margin-right: 50px;
+}*/
+
+.list a{
+    color: white;
+    text-decoration: none;
+}
